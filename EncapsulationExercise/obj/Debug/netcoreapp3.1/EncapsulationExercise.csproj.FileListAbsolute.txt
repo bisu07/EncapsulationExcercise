@@ -1,0 +1,14 @@
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.exe
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.deps.json
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.runtimeconfig.json
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.runtimeconfig.dev.json
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.dll
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.pdb
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.csproj.AssemblyReference.cache
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.AssemblyInfoInputs.cache
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.AssemblyInfo.cs
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.dll
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.pdb
+C:\Users\bishal\Desktop\repos\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.genruntimeconfig.cache
